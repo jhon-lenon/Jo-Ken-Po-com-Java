@@ -17,7 +17,14 @@ Neste projeto, replicaremos o jogo Pedra, Papel e Tesoura (Jo-ken-Po), utilizand
 ## 
 ### Obs:    
 essse projeto foi feito em estudo sob orientação de Camila Cavalcante, orientadora da DIO:
+<div align="center">
+<img src="https://user-images.githubusercontent.com/116371262/204102937-d43e2e0d-c467-4425-936b-379e62f3369d.png" width="700px" />
+</div>
 
-### Links uteis:  
+### Links uteis: 
 Camila Cavalcante: https://github.com/cami-la    
-DIO: https://www.dio.me/
+DIO: https://www.dio.me/            
+Certificado: https://hermes.digitalinnovation.one/certificates/05F6A7AF.pdf
+
+
+
